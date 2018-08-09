@@ -25,7 +25,7 @@ headers = {
     "authorization": authorization
 }
 
-url = 'https://api.dialogflow.com/v1/query?v=20170712'
+url = 'https://api.dialogflow.com/v1/query?v=20180712'
 params = {'query':str(query), 'lang':lang, 'sessionId': session_id, 'timezone': timezone}
 
 response = requests.request("GET", url, headers=headers, params=params)
