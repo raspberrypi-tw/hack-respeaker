@@ -1,13 +1,13 @@
-# One Days Workshop for Raspberry Pi GPIO Tutorial
+# One Days Workshop for Voice Control on Raspberry Pi 
 
 ## Intro
-In this workshop, we will introudce how to hack SeeedStudio ReSpeaker 2-Mics HAT
+In this workshop, we will introudce how to hack [SeeedStudio ReSpeaker 2-Mics HAT](https://www.raspberrypi.com.tw/17528/71001/)
 1. Introduction to ReSpeaker 2-Mic HAT
 2. What is Linux ALSA
 3. Embedded Google Assistant to Pi
 4. Hack ReSpeaker 2-Mic HAT
 
-The slide is available on [改造 ReSpeaker 2-MIC HAT](https://www.slideshare.net/raspberrypi-tw/respeaker-2mic-hat)
+The slide is available on [[slideshare] 改造 ReSpeaker 2-MIC HAT](https://www.slideshare.net/raspberrypi-tw/respeaker-2mic-hat)
 
 
 ## Environment
