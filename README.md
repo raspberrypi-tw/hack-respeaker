@@ -7,7 +7,7 @@ In this workshop, we will introudce how to hack [SeeedStudio ReSpeaker 2-Mics HA
 3. Embedded Google Assistant to Pi
 4. Hack ReSpeaker 2-Mic HAT
 
-The slide is available on [[slideshare] 改造 ReSpeaker 2-MIC HAT](https://www.slideshare.net/raspberrypi-tw/respeaker-2mic-hat)
+The slide is available on [[slideshare] 改造 ReSpeaker 2-MIC HAT](https://www.slideshare.net/raspberrypi-tw/respeaker-2mic-hat-109144010)
 
 
 ## Environment
