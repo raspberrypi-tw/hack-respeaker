@@ -23,6 +23,9 @@ $ sudo pip install -U SpeechRecognition request pyaudio setuptools wheel
 $ sudo pip3 install -U request numpy cairocffi
 ```
 
+## HackMD
+[改造ReSpeaker 2-MIC HAT](https://hackmd.io/66rhYfscTFazn5wZzH3Uhg)
+
 ## Buy Raspberry Pi and Smeart Speaker Learning Kit
 * [[產品] Raspberry Pi 3 Model B+ 入門組](https://www.raspberrypi.com.tw/21212/pi-3-b-plus-microsd-power-supply/)
 * [[產品] 智慧喇叭語音學習套件](https://www.raspberrypi.com.tw/19621/pi-smart-speaker-kit/)
