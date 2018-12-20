@@ -18,7 +18,6 @@ interrupted = False
 
 
 def audioRecorderCallback(fname):
-    snowboydecoder.play_audio_file()
     print "converting audio to text"
     r = sr.Recognizer()
     r.pause_threshold = 0.8
@@ -43,8 +42,9 @@ def audioRecorderCallback(fname):
 
 
 def detectedCallback():
-  sys.stdout.write("recording audio...")
-  sys.stdout.flush()
+    snowboydecoder.play_audio_file()
+    sys.stdout.write("recording audio...")
+    sys.stdout.flush()
 
 def signal_handler(signal, frame):
     global interrupted

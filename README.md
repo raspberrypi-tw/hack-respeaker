@@ -17,10 +17,9 @@ The slide is available on [[slideshare] 改造 ReSpeaker 2-MIC HAT](https://www.
 ### Install required package and Python module
 ```shell  
 $ sudo apt-get update
-$ sudo apt-get -y install python-pip python-dev python3-dev python3-venv flac python-pyaudio python-numpy python3-gi-cairo swig3.0 portaudio19-dev python3-pyaudio sox libatlas-base-dev libffi-dev libssl-dev vim mpg123 git espeak x11vnc 
-$ sudo apt-get -y install libpython3-all-dev libttspico-data libttspico-utils libttspico0 ntpdate python3-all python3-all-dev python3-pysocks python3-virtualenv virtualenv
-$ sudo pip install -U SpeechRecognition request pyaudio setuptools wheel
-$ sudo pip3 install -U request numpy cairocffi python-vlc youtube_dl
+$ sudo apt-get -y install python-pip python-dev python3-pip python3-dev x11vnc vim swig3.0 portaudio19-dev flac sox libatlas-base-dev python3-virtualenv virtualenv
+$ sudo pip install -U SpeechRecognition request
+$ sudo pip3 install -U python-vlc youtube_dl
 ```
 
 ## HackMD
